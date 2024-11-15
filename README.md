@@ -2,4 +2,4 @@
 <br/>
 <strong> Nếu bạn dùng eclipse thì mở file main.java rồi chạy như bình thường </strong>
 <br/>
-<strong> Còn vscode thì tôi chưa thử  ʅฺ(・ω・。)ʃฺ？？ </strong>
+<strong> Còn vscode thì tôi chưa thử     ʅฺ(・ω・。)ʃฺ？？ </strong>
